@@ -1,0 +1,86 @@
+[
+    {
+        "name": "dir_dir",
+        "type": "directory"
+    },
+    {
+        "name": "data_base",
+        "extension": ".json",
+        "type": "file"
+    },
+    {
+        "name": "list_dict_dir",
+        "extension": ".json",
+        "type": "file"
+    },
+    {
+        "name": "main",
+        "extension": ".py",
+        "type": "file"
+    },
+    {
+        "name": "new_file",
+        "extension": ".json",
+        "type": "file"
+    },
+    {
+        "name": "num_list",
+        "extension": ".txt",
+        "type": "file"
+    },
+    {
+        "name": "result",
+        "extension": ".json",
+        "type": "file"
+    },
+    {
+        "name": "result",
+        "extension": ".txt",
+        "type": "file"
+    },
+    {
+        "name": "res_data_base",
+        "extension": ".csv",
+        "type": "file"
+    },
+    {
+        "name": "task1_serial",
+        "extension": ".py",
+        "type": "file"
+    },
+    {
+        "name": "task2_serial",
+        "extension": ".py",
+        "type": "file"
+    },
+    {
+        "name": "task3",
+        "extension": ".py",
+        "type": "file"
+    },
+    {
+        "name": "task4_serial",
+        "extension": ".py",
+        "type": "file"
+    },
+    {
+        "name": "task_1_HW",
+        "extension": ".py",
+        "type": "file"
+    },
+    {
+        "name": "tasr3_serial",
+        "extension": ".py",
+        "type": "file"
+    },
+    {
+        "name": "users",
+        "extension": ".json",
+        "type": "file"
+    },
+    {
+        "name": "word_list",
+        "extension": ".txt",
+        "type": "file"
+    }
+]
